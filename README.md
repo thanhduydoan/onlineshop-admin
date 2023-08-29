@@ -2,6 +2,6 @@
 
 ## Site:
 
-- [Client app](https://onlineshop-clientapp.onrender.com/)
+- [Client app](https://onlineshop-clientapp.onrender.com/ ==> usename: thanhddfx21978@funix.edu.vn // password: 12345678)
 - [Admin app](link adminapp: https://onlineshop-adminapp.onrender.com/ ==> username: doanduythanh1111@gmail.com // password: 12345678)
-- [Server](https://jagged-colorful-caravel.glitch.me/)
+  
