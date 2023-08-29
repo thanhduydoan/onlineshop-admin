@@ -2,6 +2,6 @@
 
 ## Site:
 
-- [Client app](https://splashy-thirsty-hickory.glitch.me/)
-- [Admin app](https://mahogany-peppered-verbena.glitch.me/)
+- [Client app](https://onlineshop-clientapp.onrender.com/)
+- [Admin app](link adminapp: https://onlineshop-adminapp.onrender.com/ ==> username: doanduythanh1111@gmail.com // password: 12345678)
 - [Server](https://jagged-colorful-caravel.glitch.me/)
